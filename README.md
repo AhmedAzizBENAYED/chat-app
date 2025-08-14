@@ -46,20 +46,6 @@ A real-time, globally accessible chat application built with Spring Boot and Web
 
 **🔗<img width="1912" height="955" alt="image" src="https://github.com/user-attachments/assets/18399e6d-d7f5-42be-8763-f64dfb9cc1ac" />
 
-
-### 📺 Demo Video
-> **Watch the application in action** - See real-time messaging between multiple users
-
-https://github.com/yourusername/chat-app/assets/your-user-id/demo-video.mp4
-
-*The video shows:*
-- ✅ Real-time message synchronization across multiple browser windows
-- ✅ User connection/disconnection handling  
-- ✅ Responsive design on different screen sizes
-- ✅ Auto-reconnection after network interruption
-
----
-
 *Open multiple browser windows or share with friends to test real-time messaging!*
 
 ## 📋 Prerequisites
